@@ -16,3 +16,7 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run check
+
+      var:
+        FORCE_COLOR=1
+      
