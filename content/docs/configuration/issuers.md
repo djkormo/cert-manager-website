@@ -62,6 +62,7 @@ The following list contains all known cert-manager issuer integrations.
 [config:cfssl-issuer]: https://gerrit.wikimedia.org/r/plugins/gitiles/operations/software/cfssl-issuer
 [config:cview-issuer]: https://secure-ly.github.io/cview-issuer-chart
 
+
 [//]: # (CA docs)
 [ca:acme]: https://datatracker.ietf.org/doc/html/rfc8555
 [ca:venafi-enhanced-issuer]: https://venafi.com/tls-protect/
