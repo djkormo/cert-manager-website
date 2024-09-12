@@ -1,6 +1,7 @@
 # Check the content and lint the code
 name: check
 on:
+  workflow_dispatch:
   push:
     branches: [master]
   pull_request:
